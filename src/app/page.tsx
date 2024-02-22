@@ -31,7 +31,7 @@ export default function Home() {
         <div className="py-20 mx-auto text-center flex flex-col items-center max-w-3xl">
           <h1 className="text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl">
             A creative journey with our premium{" "}
-            <span className="text-blue-600">digital treasures</span>
+            <span className="text-blue-600">digital treasures..</span>
             .
           </h1>
           <p className="mt-6 text-lg max-w-prose text-muted-foreground">

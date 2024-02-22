@@ -35,7 +35,7 @@ const Cart = () => {
 //   )
 
   const fee = 1
-  const itemCount = 5
+  const itemCount = 0
 
   return (
     <Sheet>
